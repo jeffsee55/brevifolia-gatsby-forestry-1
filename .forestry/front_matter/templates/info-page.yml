@@ -44,7 +44,7 @@ fields:
     config:
       min: 
       max: 
-      step: ".0000001"
+      step: ".000001"
   - name: longitude
     type: number
     label: longitude
