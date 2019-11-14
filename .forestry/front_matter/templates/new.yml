@@ -30,3 +30,5 @@ fields:
   - type: number
     name: longitudeDelta
     label: longitudeDelta
+pages:
+- content/posts/an-essay-on-walking.md
