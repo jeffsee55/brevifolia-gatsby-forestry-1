@@ -4,10 +4,10 @@ title: An Essay on Walking
 author: Robert Thoreau
 hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 coordinates:
-  latitude: 38.49906
-  longitude: -121.45156
+  latitude: '38.49910'
+  longitude: -121.45158
   latitudeDelta: 0.82
-  longitudeDelta: 1.61
+  longitudeDelta: -1.61
 
 ---
 Then it is that I appreciate the beauty and the glory of architecture, which itself never turns in, but forever stands out and erect, keeping watch over the slumberers.
