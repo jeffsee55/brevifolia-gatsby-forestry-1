@@ -54,7 +54,7 @@ fields:
     config:
       min: 
       max: 
-      step: 
+      step: ".000001"
 - name: background_color
   type: color
   label: background_color
