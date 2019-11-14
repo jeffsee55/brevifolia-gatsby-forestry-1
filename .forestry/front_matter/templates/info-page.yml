@@ -42,8 +42,8 @@ fields:
     default: 0
     required: true
     config:
-      min: 
-      max: 
+      min: '0'
+      max: '90'
       step: ".000001"
   - name: longitude
     type: number
@@ -52,8 +52,8 @@ fields:
     default: 0
     required: true
     config:
-      min: 
-      max: 
+      min: "-180"
+      max: '180'
       step: ".000001"
 - name: background_color
   type: color
