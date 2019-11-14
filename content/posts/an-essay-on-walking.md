@@ -7,7 +7,7 @@ coordinates:
   latitude: 38.49906
   longitude: -121.45156
   latitudeDelta: 0.82
-  longitudeDelta: 1.51
+  longitudeDelta: 1.61
 
 ---
 Then it is that I appreciate the beauty and the glory of architecture, which itself never turns in, but forever stands out and erect, keeping watch over the slumberers.
