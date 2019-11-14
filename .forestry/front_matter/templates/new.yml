@@ -21,6 +21,9 @@ fields:
   - type: number
     name: latitude
     label: latitude
+    config:
+      step: ".00000"
+      min: ''
   - type: number
     name: longitude
     label: longitude
