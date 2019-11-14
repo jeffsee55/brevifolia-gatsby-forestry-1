@@ -1,12 +1,12 @@
 ---
-date: 2019-07-31T22:43:31Z
+date: 2019-07-31T22:43:31.000+00:00
 title: An Essay on Walking
 author: Robert Thoreau
 hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 coordinates:
   latitude: 38.49906
   longitude: -121.45156
-  latitudeDelta: 0.81
+  latitudeDelta: 0.82
   longitudeDelta: 1.51
 
 ---
