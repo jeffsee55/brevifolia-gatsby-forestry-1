@@ -1,0 +1,32 @@
+---
+label: New
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: file
+  name: hero_image
+  label: hero_image
+- type: field_group
+  name: coordinates
+  label: coordinates
+  fields:
+  - type: number
+    name: latitude
+    label: latitude
+  - type: number
+    name: longitude
+    label: longitude
+  - type: number
+    name: latitudeDelta
+    label: latitudeDelta
+  - type: number
+    name: longitudeDelta
+    label: longitudeDelta
