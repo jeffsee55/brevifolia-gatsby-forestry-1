@@ -22,7 +22,7 @@ fields:
     name: latitude
     label: latitude
     config:
-      step: ".00000"
+      step: '0.00001'
       min: ''
   - type: number
     name: longitude
