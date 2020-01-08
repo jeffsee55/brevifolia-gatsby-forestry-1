@@ -1,4 +1,14 @@
 ---
 label: withNumber
 hide_body: true
-fields: []
+fields:
+- name: number
+  type: number
+  label: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
