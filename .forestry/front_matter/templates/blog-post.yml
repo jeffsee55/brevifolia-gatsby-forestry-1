@@ -53,6 +53,7 @@ fields:
     min: 
     max: 
     step: 
+    required: true
 - name: coords
   type: field_group
   config: {}
