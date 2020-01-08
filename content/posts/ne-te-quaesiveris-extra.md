@@ -5,7 +5,8 @@ author: Ralph Waldo Emerson
 hero_image: "/content/images/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 blocks:
 - template: withnumber
-  number: '5'
+  number: '4'
+other_number: 3
 
 ---
 I read the other day some verses written by an eminent painter which were original and not conventional. The soul always hears an admonition in such lines, let the subject be what it may. The sentiment they instill is of more value than any thought they may contain. To believe your own thought, to believe that what is true for you in your private heart is true for all men, — that is genius.
