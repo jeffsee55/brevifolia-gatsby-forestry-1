@@ -43,6 +43,16 @@ fields:
   config:
     min: 
     max: 
+- name: other_number
+  type: number
+  label: other Number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - content/posts/ne-te-quaesiveris-extra.md
 - content/posts/on-the-geneology-of-morals.md
