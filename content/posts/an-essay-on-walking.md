@@ -5,7 +5,7 @@ author: Robert Thoreau
 hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 coordinates:
   latitude: -1.41
-  longitude: '45.10000'
+  longitude: 45.10001
   latitudeDelta: 0.82
   longitudeDelta: -1.61
 
