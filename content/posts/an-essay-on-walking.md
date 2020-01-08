@@ -4,8 +4,8 @@ title: An Essay on Walking
 author: Robert Thoreau
 hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 coordinates:
-  latitude: 38.49902
-  longitude: -121.45153
+  latitude: -1.41
+  longitude: '45.10000'
   latitudeDelta: 0.82
   longitudeDelta: -1.61
 
