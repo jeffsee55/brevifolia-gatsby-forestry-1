@@ -3,7 +3,9 @@ date: 2019-07-22T15:44:38.000-07:00
 title: Song of Myself
 author: Ralph Waldo Emerson
 hero_image: "/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
-blocks: []
+blocks:
+- template: withnumber
+  number: 3
 other_number: 3
 coords:
   longitude: 2
