@@ -12,3 +12,4 @@ fields:
     min: 
     max: 
     step: 
+  hidden: true
