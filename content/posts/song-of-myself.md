@@ -4,9 +4,9 @@ title: Song of Myself
 author: Ralph Waldo Emerson
 hero_image: "/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
 blocks: []
-other_number: 1
+other_number: 3
 coords:
-  longitude: 4
+  longitude: 2
 
 ---
 I have heard what the talkers were talking, the talk of the  
