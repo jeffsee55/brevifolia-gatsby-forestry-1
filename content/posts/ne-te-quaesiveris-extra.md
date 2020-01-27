@@ -1,13 +1,17 @@
 ---
-date: 2019-08-13T22:40:32Z
+date: 2019-08-13T15:40:32.000-07:00
 title: Ne Te Quaesiveris Extra
 author: Ralph Waldo Emerson
 hero_image: "/content/images/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 blocks:
 - template: withnumber
   number: 4
+- template: withnumber
+  number: 6
 other_number: 5963
 longitude: -12312.12312
+coords:
+  longitude: 
 
 ---
 I read the other day some verses written by an eminent painter which were original and not conventional. The soul always hears an admonition in such lines, let the subject be what it may. The sentiment they instill is of more value than any thought they may contain. To believe your own thought, to believe that what is true for you in your private heart is true for all men, — that is genius.
