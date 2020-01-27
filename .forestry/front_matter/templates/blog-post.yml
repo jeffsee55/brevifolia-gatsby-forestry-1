@@ -40,6 +40,8 @@ fields:
   label: Blocks
   template_types:
   - withnumber
+  - new
+  - info-page
   config:
     min: 
     max: 
