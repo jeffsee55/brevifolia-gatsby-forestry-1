@@ -12,4 +12,4 @@ fields:
     min: 
     max: 
     step: 
-    required: true
+  hidden: true

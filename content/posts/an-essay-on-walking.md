@@ -1,5 +1,5 @@
 ---
-date: 2019-07-31T15:43:31.000-07:00
+date: 2019-08-22T22:43:31Z
 title: An Essay on Walking
 author: Robert Thoreau
 hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
